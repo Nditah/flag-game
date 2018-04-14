@@ -1,0 +1,7 @@
+{
+  "name": "flag-game",
+  "short_name": "flag-game",
+  "description": "flag game app description ",
+  "start_url": "/",
+  "display": "standalone"
+}
